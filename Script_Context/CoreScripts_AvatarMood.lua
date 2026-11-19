@@ -1,0 +1,3 @@
+-- Script Context.CoreScripts/AvatarMood
+-- Class: CoreScript
+-- FAILED: decompile failed

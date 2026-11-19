@@ -1,0 +1,3 @@
+-- Script Context.CoreScripts/FacialAnimationStreaming
+-- Class: CoreScript
+-- FAILED: decompile failed

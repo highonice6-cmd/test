@@ -1,0 +1,3 @@
+-- Script Context.CoreScripts/DefaultListenerLocation
+-- Class: CoreScript
+-- FAILED: decompile failed

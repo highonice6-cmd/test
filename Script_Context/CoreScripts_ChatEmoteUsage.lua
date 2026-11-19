@@ -1,0 +1,3 @@
+-- Script Context.CoreScripts/ChatEmoteUsage
+-- Class: CoreScript
+-- FAILED: decompile failed

@@ -1,0 +1,3 @@
+-- Script Context.CoreScripts/GameInviteModalGUI
+-- Class: CoreScript
+-- FAILED: decompile failed

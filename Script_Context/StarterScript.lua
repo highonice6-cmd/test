@@ -1,0 +1,3 @@
+-- Script Context.StarterScript
+-- Class: CoreScript
+-- FAILED: decompile failed

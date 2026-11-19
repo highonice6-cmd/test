@@ -1,0 +1,3 @@
+-- StarterPlayer.PlayerModule.InputSetup
+-- Class: Script
+-- FAILED: server-only, client never gets source

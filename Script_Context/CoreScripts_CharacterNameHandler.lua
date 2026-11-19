@@ -1,0 +1,3 @@
+-- Script Context.CoreScripts/CharacterNameHandler
+-- Class: CoreScript
+-- FAILED: decompile failed

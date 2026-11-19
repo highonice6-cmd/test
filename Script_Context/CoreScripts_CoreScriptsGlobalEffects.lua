@@ -1,0 +1,3 @@
+-- Script Context.CoreScripts/CoreScriptsGlobalEffects
+-- Class: CoreScript
+-- FAILED: decompile failed
